@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+footer{
+    background-color: #130873;
+    font-size: 15px;
+    padding: 5px;
+    color: #6D89D5;
+}
+
+header{
+    background-color: #130873;
+    text-align: center;
+    font-size: 15px;
+    padding: 5px;
+    color: #6D89D5;
+}
+
+h2{
+    color: #130873;
+    background-color: #6D89D5;
+    text-align: center;
+    width: 250px;
+    margin-left: 155px;
+}
+
+.we{
+    background-color: #6D89D5;
+    color: #130873;
+    border-radius: 7px;
+}
+
+main img{
+    border: 14px double #6C8AD5;
+    margin-left: 80px;
+    width: 400px;
+    height: 200px;
+}
+
